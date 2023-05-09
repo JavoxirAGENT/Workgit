@@ -288,3 +288,60 @@ header .navbar .navbar-box .btn_2
     left: 75%;
     top: 42%;
 }
+.section-box_2
+{
+    padding: 120px 335px;
+    display: flex;
+    justify-content: space-between;
+}
+.section-box_2 .image-container
+{   
+    width: 638.46px;
+    height: 573.26px;  
+    background: rgba(1, 153, 109, 0.2);
+    border-radius: 18.1125px;
+    position: relative;
+}
+.section-box_2 .image-container img
+{
+    position: absolute;
+    left: 80px;
+}
+.section-box_2 .content
+{
+    margin-left: 80px;
+}
+.section-box_2 .content .name
+{
+    font-weight: 600;
+    font-size: 25px;
+    color: #424242;
+}
+.section-box_2 .content .text
+{
+    font-weight: 700;
+    font-size: 50px;
+    color: #01996D;
+    width: 69%;
+    margin-top: 10px;
+}
+.section-box_2 .content p
+{
+    font-weight: 400;
+    font-size: 20px;
+    color: #484848;
+    margin: 20px 0;
+}
+.section-box_2 .content a
+{
+    padding: 20px 50px;
+    background: #01996D;
+    border: 1px solid #01996D;
+    border-radius: 4px;
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+    position: relative;
+    top: 40px;
+}
