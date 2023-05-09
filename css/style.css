@@ -345,3 +345,28 @@ header .navbar .navbar-box .btn_2
     position: relative;
     top: 40px;
 }
+/* -------------------------------------------------------- */
+.section-box_5
+{
+    width: 100%;
+    height: 654px;
+    background: #245852;
+}
+.section-box_5 .futer
+{
+    padding: 95px 275px;
+}
+.section-box_5 .futer a
+{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 25px;
+    display: block;
+    margin: 30px;
+}
+.section-box_5 .futer a:nth-child(1)
+{
+    font-weight: 900;
+    font-size: 40px;
+}
